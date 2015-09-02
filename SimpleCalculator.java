@@ -1,4 +1,10 @@
-// SimpleCalculator.java
+/*
+ * Project: SimpleCalculator.java
+ * Description: A simple calculator that will add, subtract, multiply, divide, or get the remainder of two inputs.
+ * Name: Aaron Snowberger
+ * Date: Aug 29, 2015
+ */
+
 // Today's Assignment
 
 import java.util.Scanner;
