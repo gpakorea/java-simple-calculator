@@ -1,4 +1,9 @@
-// Addition.java
+/*
+ * Project: Addition.java
+ * Description: A simple program that adds two numbers
+ * Name: Aaron Snowberger
+ * Date: Aug 29, 2015
+ */
 
 // Operators = +, -, *, /, % (modulus) = remainder
 // 4%3 = 1 / 942%3 = 0
